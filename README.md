@@ -196,4 +196,5 @@ TASK[0]  MASTER WRITE TO SLAVE
 
 (For any technical queries, please open an [issue](https://github.com/espressif/esp-idf/issues) on GitHub. We will get back to you as soon as possible.)
 #   c e 2 3 2 _ l a b 2  
+ #   c e 2 3 2 _ l a b 2  
  
